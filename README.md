@@ -25,6 +25,7 @@ Open CLI:
 *  Goto the folder where the data is downloaded:
 
   -----To copy all JSON Reference data to same location:-----
+  
   aws s3 cp . s3://youtube-raw-us-east-1-dev-de/youtube/raw_statistics_reference_data/ --recursive --exclude "*" --include "*.json"
    
   -----To copy all data files to its own location, following Hive-style patterns:-----
