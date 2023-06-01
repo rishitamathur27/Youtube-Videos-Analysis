@@ -50,10 +50,12 @@ Open CLI:
 * Create an IAM role.
   When a service wants to access another service in AWS (glue wants to access data from S3), it doesn't have direct permission. Create a   Role would give this permission.
   
-  Create Role --> ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/70efc93e-f391-4807-b4ac-76d4e8e4a234)
+  Create Role --> 
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/70efc93e-f391-4807-b4ac-76d4e8e4a234)
 
-![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/3d0a1d52-0fbf-4a9d-aa1b-28f986e55fef)
-![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/e24b3b73-d273-4563-8327-f906652c29ba)
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/3d0a1d52-0fbf-4a9d-aa1b-28f986e55fef)
+  
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/e24b3b73-d273-4563-8327-f906652c29ba)
 
 
   
