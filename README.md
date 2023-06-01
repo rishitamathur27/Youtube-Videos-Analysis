@@ -68,8 +68,11 @@ Open CLI:
 * Add database
   ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/3b709e6e-fe2d-4d60-a631-e65d959c11c7)
 
-  Click on 'Run'
+* Click on 'Run'
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/79bcdf1d-137d-4a86-85e4-38058665c620)
   
+  
+
   
   
 
