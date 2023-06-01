@@ -41,6 +41,21 @@ Open CLI:
   * aws s3 cp USvideos.csv s3://youtube-raw-us-east-1-dev-de/youtube/raw_statistics/region=us/
   
 ->  After uploading all the data to S3:
+
+* Click on AWS Glue.
+* Goto: Data Catalog--> Crawlers
+![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/89d5158d-7f4a-4aaf-818d-77d43087418e)
+![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/58e39c6c-f3b1-4f3b-aa34-d1da741f7ab7)
+
+* Create an IAM role.
+  When a service wants to access another service in AWS (glue wants to access data from S3), it doesn't have direct permission. Create a   Role would give this permission.
+  
+  Create Role --> ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/70efc93e-f391-4807-b4ac-76d4e8e4a234)
+
+![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/3d0a1d52-0fbf-4a9d-aa1b-28f986e55fef)
+![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/e24b3b73-d273-4563-8327-f906652c29ba)
+
+
   
 
 
