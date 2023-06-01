@@ -57,6 +57,22 @@ Open CLI:
   
   ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/e24b3b73-d273-4563-8327-f906652c29ba)
 
+* Click on Attach policies:
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/da5ce8ec-4400-405e-af61-aa441af4e78b)
+  
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/372bea7c-5025-47b6-8e50-c804166885e5)
+
+* Goto AWS Glue and select the role:
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/796fc4e9-874c-4be9-8be8-57c72810ac9c)
+  
+* Add database
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/3b709e6e-fe2d-4d60-a631-e65d959c11c7)
+
+  Click on 'Run'
+  
+  
+  
+
 
   
 
