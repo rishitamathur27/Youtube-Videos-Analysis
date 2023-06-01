@@ -71,6 +71,15 @@ Open CLI:
 * Click on 'Run'
   ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/79bcdf1d-137d-4a86-85e4-38058665c620)
   
+* Click on Table Data (It will redirect you to AWS Athena which is adhoc query tool in which we can write the SQL query and get the     insights)
+
+* Create a new s3 bucket for athena job.
+  ![image](https://github.com/rishitamathur27/Youtube-Videos-Analysis/assets/38039850/07f37888-643f-4f82-b258-28313d1d4599)
+
+* After running the query it will fail. Due to which we'll need to preprocess and transform the data before creating the crawler.
+* Refer to the notepad named "Analysis_Youtube" for the next steps and concepts.
+
+  
   
 
   
